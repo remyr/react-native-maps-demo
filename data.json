@@ -1,0 +1,899 @@
+/* 1 */
+{
+    "properties" : {
+        "id" : "N2379081163",
+        "name" : "Pasteur Mairie de Blagnac",
+        "category" : "TRANSPORT_TRAMSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3912346, 
+            43.6346092
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "properties" : {
+        "id" : "N1613187317",
+        "name" : "Renault",
+        "category" : "SHOP_CARREPAIR"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3906361, 
+            43.6360325
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "properties" : {
+        "id" : "N803733728",
+        "name" : "Centre médical Pasteur",
+        "category" : "HEALTH_DOCTORS"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3914996, 
+            43.63412
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "properties" : {
+        "id" : "N1599923781",
+        "name" : "Pasteur Mairie de Blagnac",
+        "category" : "TRANSPORT_TRAMSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3913438, 
+            43.6340381
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "properties" : {
+        "id" : "W394951614",
+        "name" : "École Saint-Exupéry",
+        "category" : "EDUCATION_SCHOOL"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3891282, 
+            43.6349163
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "properties" : {
+        "id" : "W64421022",
+        "name" : "Jin Ji",
+        "category" : "FOOD_RESTAURANT"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3915903, 
+            43.6361667
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "properties" : {
+        "id" : "N1751451517",
+        "name" : "Restaurant Bian",
+        "category" : "FOOD_RESTAURANT"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3916499, 
+            43.6363427
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "properties" : {
+        "id" : "N3981471101",
+        "name" : "Au Fil du Tram",
+        "category" : "FOOD_RESTAURANT"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3916315, 
+            43.633747
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "properties" : {
+        "id" : "N2379081204",
+        "name" : "Place du Relais",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3900798, 
+            43.6367417
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "properties" : {
+        "id" : "N757315615",
+        "name" : "Place du Relais",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3900718, 
+            43.636771
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "properties" : {
+        "id" : "N1739492087",
+        "name" : "Place du Relais",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.390226, 
+            43.6371564
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "properties" : {
+        "id" : "N1739492086",
+        "name" : "Place du Relais",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.389815, 
+            43.6372784
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "properties" : {
+        "id" : "N1718455975",
+        "name" : "Buches",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.393749, 
+            43.6359114
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "properties" : {
+        "id" : "N288553063",
+        "name" : "Pharmacie du Parc",
+        "category" : "HEALTH_PHARMACY"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3888263, 
+            43.6330914
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "properties" : {
+        "id" : "N1739492084",
+        "name" : "Place du Relais",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.390455, 
+            43.6375004
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "properties" : {
+        "id" : "N2468106161",
+        "name" : "Collège Guillaumet",
+        "category" : "EDUCATION_SCHOOL"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.387268, 
+            43.6355228
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "properties" : {
+        "id" : "N1739492085",
+        "name" : "Place du Relais",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.390466, 
+            43.6376084
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "properties" : {
+        "id" : "N1718455978",
+        "name" : "Buches",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.394207, 
+            43.6359334
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 19 */
+{
+    "properties" : {
+        "id" : "N3968530569",
+        "name" : "Bistrot des Artistes",
+        "category" : "FOOD_RESTAURANT"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3867746, 
+            43.6343307
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 20 */
+{
+    "properties" : {
+        "id" : "W32230378",
+        "name" : "City park",
+        "category" : "AMENITY_PLAYGROUND"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3870295, 
+            43.6336979
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 21 */
+{
+    "properties" : {
+        "id" : "N827410689",
+        "name" : "Blagnac",
+        "category" : "AMENITY_POSTOFFICE"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3948893, 
+            43.6346708
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "properties" : {
+        "id" : "N25178680",
+        "name" : "Station Total",
+        "category" : "TRANSPORT_FUEL"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3902707, 
+            43.6381921
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "properties" : {
+        "id" : "W64417986",
+        "name" : "Odyssud",
+        "category" : "TOURIST_THEATRE"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3863937, 
+            43.634627
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "properties" : {
+        "id" : "W64409815",
+        "name" : "Blanche Neige",
+        "category" : "EDUCATION_NURSERY"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3863476, 
+            43.6360268
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 25 */
+{
+    "properties" : {
+        "id" : "N1575242789",
+        "name" : "Carrefour Contact",
+        "category" : "SHOP_SUPERMARKET"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3952851, 
+            43.6347706
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 26 */
+{
+    "properties" : {
+        "id" : "N1718456563",
+        "name" : "Cimetière Blagnac",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.394516, 
+            43.6374454
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 27 */
+{
+    "properties" : {
+        "id" : "W64417723",
+        "name" : "Halte-garderie Cendrillon",
+        "category" : "EDUCATION_NURSERY"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3957347, 
+            43.6354035
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 28 */
+{
+    "properties" : {
+        "id" : "N1718456568",
+        "name" : "Cimetière Blagnac",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.394565, 
+            43.6374644
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 29 */
+{
+    "properties" : {
+        "id" : "N305104845",
+        "name" : "Les Dauphins",
+        "category" : "EDUCATION_NURSERY"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3869087, 
+            43.6375571
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 30 */
+{
+    "properties" : {
+        "id" : "N1784508639",
+        "name" : "Monument aux Morts",
+        "category" : "TOURIST_MEMORIAL"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3947301, 
+            43.6375183
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 31 */
+{
+    "properties" : {
+        "id" : "N1718457937",
+        "name" : "Mairie Blagnac",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.395928, 
+            43.6358584
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 32 */
+{
+    "properties" : {
+        "id" : "N305104879",
+        "name" : "Pharmacie Souillard",
+        "category" : "HEALTH_PHARMACY"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3886081, 
+            43.6386441
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 33 */
+{
+    "properties" : {
+        "id" : "N2379081154",
+        "name" : "Odyssud - Ritouret",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3853341, 
+            43.6362305
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 34 */
+{
+    "properties" : {
+        "id" : "N983684806",
+        "name" : "Odyssud - Ritouret",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3853347, 
+            43.6362564
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 35 */
+{
+    "properties" : {
+        "id" : "N3123768133",
+        "name" : "Cabinet médical de l'Orangerie",
+        "category" : "HEALTH_DOCTORS"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3963823, 
+            43.6355272
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 36 */
+{
+    "properties" : {
+        "id" : "N1718457960",
+        "name" : "Mairie Blagnac",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3964884, 
+            43.6352716
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 37 */
+{
+    "properties" : {
+        "id" : "N2379081145",
+        "name" : "Guyenne - Berry",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3917091, 
+            43.6308735
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 38 */
+{
+    "properties" : {
+        "id" : "N757338943",
+        "name" : "Guyenne - Berry",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3917438, 
+            43.6308743
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 39 */
+{
+    "properties" : {
+        "id" : "W26337611",
+        "name" : "Terrain de rugby",
+        "category" : "SPORT_FOOTBALL"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3855706, 
+            43.6328944
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 40 */
+{
+    "properties" : {
+        "id" : "N3123768155",
+        "name" : "Pharmacie du Centre",
+        "category" : "HEALTH_PHARMACY"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3966496, 
+            43.635363
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 41 */
+{
+    "properties" : {
+        "id" : "N1575224479",
+        "name" : "Banque Populaire",
+        "category" : "MONEY_BANK"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3967657, 
+            43.6347396
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 42 */
+{
+    "properties" : {
+        "id" : "N3922286191",
+        "name" : "Maison Pillon",
+        "category" : "SHOP_CONFECTIONERY"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3967707, 
+            43.6344733
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 43 */
+{
+    "properties" : {
+        "id" : "W64413827",
+        "name" : "Carrefour City",
+        "category" : "SHOP_SUPERMARKET"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3846592, 
+            43.6359416
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 44 */
+{
+    "properties" : {
+        "id" : "W64422047",
+        "name" : "Maison de la Famille et de la Parentalité",
+        "category" : "AMENITY_PUBLICBUILDING"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3848213, 
+            43.6365284
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 45 */
+{
+    "properties" : {
+        "id" : "N1718457981",
+        "name" : "Mairie Blagnac",
+        "category" : "TRANSPORT_BUSSTOP"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.396907, 
+            43.6350304
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 46 */
+{
+    "properties" : {
+        "id" : "W356787940",
+        "name" : "Manège",
+        "category" : "AMENITY_PLAYGROUND"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3843688, 
+            43.6350551
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 47 */
+{
+    "properties" : {
+        "id" : "N4352507766",
+        "name" : "Mosquée",
+        "category" : "POW_ISLAMIC"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3850966, 
+            43.6372755
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 48 */
+{
+    "properties" : {
+        "id" : "W217875612",
+        "name" : "Petit Théatre Saint-Exupère",
+        "category" : "TOURIST_THEATRE"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3958725, 
+            43.6377644
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 49 */
+{
+    "properties" : {
+        "id" : "N2468071111",
+        "name" : "Société Générale",
+        "category" : "MONEY_BANK"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3969447, 
+            43.6340504
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
+
+/* 50 */
+{
+    "properties" : {
+        "id" : "N1650294326",
+        "name" : "Crédit Mutuel",
+        "category" : "MONEY_BANK"
+    },
+    "geometry" : {
+        "coordinates" : [ 
+            1.3968515, 
+            43.6336991
+        ],
+        "type" : "Point"
+    },
+    "type" : "Feature",
+    "__v" : 0
+}
